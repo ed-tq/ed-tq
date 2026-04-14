@@ -10,6 +10,4 @@ A creative with a passion for technology, design, and development, focused on bu
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ed-tq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ed-tq&icon=5&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
