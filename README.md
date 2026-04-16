@@ -1,5 +1,5 @@
 # 💫 About Me:
-A creative with a passion for technology, design, and development, focused on building engaging, user-friendly, and interactive web applications.
+A creative passionate about technology, design, and development, focused on creating impactful solutions through engaging and user-friendly web applications. Currently pursuing a BSc in Information and Technology Management and Statistics, looking to apply programming and data management skills to improve processes and deliver meaningful outcomes for people.
 
 
 # 💻 Tech Stack:
